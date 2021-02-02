@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yamatsum&show_icons=true&count_private=true&hide_title=true)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yamatsum&show_icons=true&count_private=true&hide_title=true&hide=issues&line_height=24)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamatsum&layout=compact&hide_title=true&langs_count=6)
 
 <!--

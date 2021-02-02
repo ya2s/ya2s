@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yamatsum&show_icons=true&count_private=true&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamatsum&layout=compact&hide_title=true)
+
 <!--
 **yamatsum/yamatsum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,9 +1,14 @@
 ### Hi there 👋
 
-### Stats
+## Stats
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yamatsum&show_icons=true&count_private=true&hide_title=true&hide=issues&line_height=24&bg_color=0c1116&text_color=cad1d9&hide_border=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamatsum&layout=compact&hide_title=true&langs_count=6&bg_color=0c1116&text_color=cad1d9&hide_border=true)
+
+## Technologies
+
+![](https://img.shields.io/static/v1?label=editor&message=Neovim&style=flat&logo=neovim&labelColor=0c1116&color=2157BF)
+
 
 <!--
 **yamatsum/yamatsum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

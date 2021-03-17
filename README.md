@@ -1,4 +1,4 @@
-![Profile image](https://user-images.githubusercontent.com/42740055/107151611-d2611f00-69a6-11eb-9991-7ada0dd566e2.png)
+![Profile image](https://user-images.githubusercontent.com/42740055/111402625-dce1a780-870e-11eb-968d-0674a9b43273.png)
 
 ## Stats
 

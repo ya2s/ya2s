@@ -1,9 +1,10 @@
 ![Profile image](https://user-images.githubusercontent.com/42740055/111402625-dce1a780-870e-11eb-968d-0674a9b43273.png)
 
 ## Stats
-
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=yamatsum&show_icons=true&count_private=true&hide_title=true&hide=issues&line_height=24&bg_color=22272E&text_color=909DAB&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamatsum&layout=compact&hide_title=true&langs_count=6&bg_color=22272E&text_color=909DAB&hide_border=true)
+<div style="display: flex; flex-direction: row;">
+ <img class="img" src="https://github-readme-stats.vercel.app/api?username=yamatsum&show_icons=true&count_private=true&hide_title=true&hide=issues&line_height=24&bg_color=22272E&text_color=909DAB&hide_border=true" />
+ <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamatsum&layout=compact&hide_title=true&langs_count=6&bg_color=22272E&text_color=909DAB&hide_border=true" />
+</div>
 
 ## Technologies
 ![](https://img.shields.io/static/v1?label=OS&message=MacOS&style=flat&logo=Apple&labelColor=22272E&color=316dca)

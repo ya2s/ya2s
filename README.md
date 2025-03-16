@@ -2,8 +2,8 @@
 
 ## Stats
 <p align="center">
-<img height="130em" src="https://github-readme-stats.vercel.app/api?username=yamatsum&show_icons=true&count_private=true&hide_title=true&hide=issues&line_height=24&bg_color=22272E&text_color=909DAB&hide_border=true" align = "center"/>
-<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamatsum&layout=compact&hide_title=true&langs_count=6&bg_color=22272E&text_color=909DAB&hide_border=true" align = "center"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api?username=ya2s&show_icons=true&count_private=true&hide_title=true&hide=issues&line_height=24&bg_color=22272E&text_color=909DAB&hide_border=true" align = "center"/>
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ya2s&layout=compact&hide_title=true&langs_count=6&bg_color=22272E&text_color=909DAB&hide_border=true" align = "center"/>
 </p>
 
 ## Technologies
@@ -40,7 +40,7 @@
 ![](https://img.shields.io/static/v1?label=Tool&message=Vercel&style=flat&logo=vercel&labelColor=22272E&color=316dca)
 
 <!--
-**yamatsum/yamatsum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ya2s/ya2s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

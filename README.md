@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://github.com/images/mona-hifive.gif" align="center"/>
+</p>
+
+<!--
 ![Profile image](https://user-images.githubusercontent.com/42740055/111402625-dce1a780-870e-11eb-968d-0674a9b43273.png)
 
 ## Stats
@@ -39,7 +44,6 @@
 ![](https://img.shields.io/static/v1?label=Tool&message=Jfrog&style=flat&logo=jfrog&labelColor=22272E&color=316dca)
 ![](https://img.shields.io/static/v1?label=Tool&message=Vercel&style=flat&logo=vercel&labelColor=22272E&color=316dca)
 
-<!--
 **ya2s/ya2s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
